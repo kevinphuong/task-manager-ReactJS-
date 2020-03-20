@@ -93,7 +93,7 @@ class App extends React.Component {
             messages = { messages }
             />
 
-            { /*footer*/ } <
+            { /*footerdfdfdfffdfdfdfd*/ } <
             Footer / >
             <
             /div> <
